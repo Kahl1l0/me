@@ -1,5 +1,6 @@
-### Hi there 👋
+# Bio
 
+Hello, I am [@kahl1l0](http://github.com/kahl1l0). <br>I am a contract technical writer and content developer [@Microsoft](http://mirosoft.com). <br> I primarily contribute to [Microsoft Learn Partner Center](https://learn.microsoft.com/en-us/partner-center/) and [MSX](https://review.learn.microsoft.com/en-us/seller) documentation. <br> I am from the midwestern United States and I currently reside in the state of Illinois. <br> I am the author of the book [ØRGΛN C1TY](http://organ.city) and a regular contributor to several publications.
 <!--
 **Kahl1l0/kahl1l0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
